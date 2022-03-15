@@ -23,7 +23,12 @@ public class Browser {
 		return driver;
 	}
 	
-	
+//	public static WebDriver launchChromeBrowser() {
+//		System.setProperty("webdriver.chrome.driver","D:\\s\\driver\\chromedriver.exe");			
+//		WebDriver driver = new ChromeDriver();
+//		return driver;
+//	}
+//	
 	
 //	public static WebDriver launchChromeBrowser() {
 //		System.setProperty("webdriver.chrome.driver","D:\\s\\driver\\chromedriver.exe");			
