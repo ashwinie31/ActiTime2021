@@ -11,6 +11,9 @@ public class EnterTimeTrack {
 
 	@FindBy(xpath="//span[text()='New']")
 	private WebElement New;
+
+	@FindBy(xpath="//span[text()='New']")
+	private WebElement Newextra;
 	
 	@FindBy(xpath="//button[text()='- Select Customer -']")
 	private WebElement selectCustomer;
